@@ -1295,6 +1295,19 @@ section.lazy-placeholder:after {
     font-size: 4.25rem;
   }
 }
+.cid-s2py28tUzW {
+  background: #ffffff;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-s2py28tUzW .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-s2py28tUzW .video-block {
+    width: 100% !important;
+  }
+}
 .cid-s1Rik4mTQp {
   padding-top: 90px;
   padding-bottom: 90px;
